@@ -16,7 +16,7 @@ export const Hero = () => {
                   {t('hero-title')}
                 </h1>
                 <Button className="font-semiboldn gap-3 py-6 text-lg" size={'lg'} asChild>
-                  <a href="https://github.com/Quilljou/vite-react-ts-tailwind-starter">
+                  <a href="https://github.com/higherleveldev/frontend-starter">
                     <Zap />
                     {t('get-started')}
                   </a>

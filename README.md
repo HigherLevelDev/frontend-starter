@@ -4,13 +4,12 @@ Choosing a technology stack is a very subjective matter, if you happen to like u
 
 ## Run
 
-
 ```sh
-yarn
-yarn dev
+pnpm install
+pnpm dev
 ```
 
-We prefer `Yarn` as package manager, If you want to use `pnpm` or `npm`, feel free to use
+We prefer `pnpm` as package manager. If you want to use `npm`, feel free to use it instead.
 
 
 ## Tech Stack
